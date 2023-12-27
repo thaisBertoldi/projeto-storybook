@@ -1,7 +1,7 @@
-import { Task } from './Task'
+import Task from './Task'
 
 export default {
-  title: 'Component/Task',
+  title: 'Form/Task',
   component: Task,
   parameters: {
     // More on how to position stories at: https://storybook.js.org/docs/configure/story-layout
@@ -9,6 +9,7 @@ export default {
   },
 };
 
-export const LoggedIn = {};
+export const Checkbox = {};
 
-export const LoggedOut = {};
+export const CardCheck = {};
+

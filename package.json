@@ -9,6 +9,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
+    "styled-components": "^6.1.6",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -45,6 +46,7 @@
     "@storybook/addon-links": "^7.6.6",
     "@storybook/addon-notes": "^5.3.21",
     "@storybook/addon-onboarding": "^1.0.10",
+    "@storybook/addon-themes": "^7.6.6",
     "@storybook/blocks": "^7.6.6",
     "@storybook/preset-create-react-app": "^7.6.6",
     "@storybook/react": "^7.6.6",
